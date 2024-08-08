@@ -1,0 +1,26 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "nodejs chatgpt chatbot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svobodennn/Nodejs-Ai-Chatbot.git"
+  },
+  "author": "Melih Saraç",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Svobodennn/Nodejs-Ai-Chatbot/issues"
+  },
+  "homepage": "https://github.com/Svobodennn/Nodejs-Ai-Chatbot#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.55.1",
+    "readline-sync": "^1.4.10"
+  }
+}
